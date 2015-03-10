@@ -1,0 +1,7 @@
+/* Styles go here */
+
+.log {
+  height: 10em;
+  font-size: 0.7em;
+  overflow-y: scroll;
+}
